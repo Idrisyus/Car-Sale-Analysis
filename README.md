@@ -1,6 +1,6 @@
 # Car-Sale-Analysis
 uncovering revenue trends, customer preferences, and regional performance with DAX, Power Query, and data storytelling
-# 🚗 Car Sales Dashboard (Power BI)
+# 🚗 Car Sales Dashboard ([Power BI](https://github.com/Idrisyus/Car-Sale-Analysis/blob/0bed8ca5c7269b5d2a6308406f775011f43f4a10/car%20sales%20dashboard%20overview.png))
 
 
 ---
