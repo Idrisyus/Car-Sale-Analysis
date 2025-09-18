@@ -1,6 +1,7 @@
 # Car-Sale-Analysis
 uncovering revenue trends, customer preferences, and regional performance with DAX, Power Query, and data storytelling
 # 🚗 Car Sales Dashboard (Power BI)
+Car sales Dash board (car sales dashboard overview.png)
 
 ---
 
